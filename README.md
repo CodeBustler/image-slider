@@ -1,3 +1,4 @@
-# image-slider
+# Image Slider
+By using HTML, CSS & JavaScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-knwjtp)
+## Live
